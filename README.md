@@ -24,7 +24,7 @@ It explores architectural massing through spatial configuration, adjacency relat
 
 ## Development Status
 
-Version 1.3 – Prototype.
+Version 1.0 – Prototype.
 
 Spatial Morphology is an ongoing research and development project exploring the relationship between spatial organization, computational processes, and architectural form.
 
